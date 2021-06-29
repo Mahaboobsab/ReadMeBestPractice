@@ -80,3 +80,14 @@ Here's a list of other related projects where you can find this Library:
 - [My Project 1](https://github.com/Mahaboobsab/ReadMeBestPractice)
 - [My Project 2](https://github.com/Mahaboobsab/ReadMeBestPractice)
 
+## Contributing to project
+
+To contribute to Project, follow these steps:
+
+1. Fork this repository.
+2. Create a branch: git checkout -b <branch_name>.
+3. Make your changes and commit them: git commit -m '<commit_message>'
+4. Push to the original branch: git push origin <project_name>/<location>
+5. Create the pull request.
+
+
