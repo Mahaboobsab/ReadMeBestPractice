@@ -13,7 +13,7 @@ Additional line of information.
 
 - Basic Usage
 
-- Example: Demo Project
+- Example
 
 - Found a bug? Missing a specific feature?
 
@@ -62,3 +62,7 @@ public class ActivityIndicator {
 
 }
 ```
+
+## Example
+
+*Demo Project*
