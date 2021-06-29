@@ -38,3 +38,11 @@ Before you begin, ensure you have met the following requirements:
 1. You have installed the latest version of SDK
 2. You have latest version of OS.
 3. You have read the documentation.
+
+## Installing Project
+
+Use dependency manager for Cocoa projects [CocoaPods](https://cocoapods.org) to install pods.
+
+```bash
+pod 'MyProject', '~> 1.0'
+```
