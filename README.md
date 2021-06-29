@@ -53,3 +53,12 @@ To use Project, follow these steps:
 
 - If any changes need to done in IDE
 - If any import statement need to be added in the class file
+
+## Basic Usage
+```Swift
+import UIKit
+
+public class ActivityIndicator {
+
+}
+```
