@@ -95,4 +95,8 @@ To contribute to Project, follow these steps:
 1. [@Meheboob](https://github.com/Mahaboobsab)
 2. [@Vikas](https://github.com/Mahaboobsab)
 
+ ## Contact
+  
+  If you want to contact me you can reach me at:
+  someone@noware.com
 
