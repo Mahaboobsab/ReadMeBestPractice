@@ -66,3 +66,10 @@ public class ActivityIndicator {
 ## Example
 
 *Demo Project*
+
+## Found a bug? Missing a specific feature?
+
+Issue tracker: (https://github.com/mahaboobsab/awesome-project/issues)
+
+In case of sensitive bugs like security vulnerabilities, please contact my@email.com directly instead of using issue tracker.
+
