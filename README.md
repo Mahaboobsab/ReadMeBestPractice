@@ -24,3 +24,9 @@ Additional line of information.
 - Contributors
 
 - Contact
+
+## Features
+
+This project makes it easy to:
+- Feature 1
+- Feature 2
