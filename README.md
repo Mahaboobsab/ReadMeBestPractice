@@ -30,3 +30,11 @@ Additional line of information.
 This project makes it easy to:
 - Feature 1
 - Feature 2
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+1. You have installed the latest version of SDK
+2. You have latest version of OS.
+3. You have read the documentation.
