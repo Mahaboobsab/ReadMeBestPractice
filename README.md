@@ -3,24 +3,24 @@ Project is a that allows to achive some specific tasks.
 Additional line of information.
 
 ## Table of contents
-1.Features
+- Features
 
-2.Prerequisites
+- Prerequisites
 
-3.Installing Project
+- Installing Project
 
-4.Using Project
+- Using Project
 
-5.Basic Usage
+- Basic Usage
 
-6.Example: Demo Project
+- Example: Demo Project
 
-7.Found a bug? Missing a specific feature?
+- Found a bug? Missing a specific feature?
 
-8.Related projects
+- Related projects
 
-9.Contributing to project
+- Contributing to project
 
-10.Contributors
+- Contributors
 
-11.Contact
+- Contact
