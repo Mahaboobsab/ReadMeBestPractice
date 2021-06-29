@@ -73,3 +73,10 @@ Issue tracker: (https://github.com/mahaboobsab/awesome-project/issues)
 
 In case of sensitive bugs like security vulnerabilities, please contact my@email.com directly instead of using issue tracker.
 
+## Related projects
+
+Here's a list of other related projects where you can find this Library:
+
+- [My Project 1](https://github.com/Mahaboobsab/ReadMeBestPractice)
+- [My Project 2](https://github.com/Mahaboobsab/ReadMeBestPractice)
+
