@@ -46,3 +46,10 @@ Use dependency manager for Cocoa projects [CocoaPods](https://cocoapods.org) to 
 ```bash
 pod 'MyProject', '~> 1.0'
 ```
+
+## Using Project
+
+To use Project, follow these steps:
+
+- If any changes need to done in IDE
+- If any import statement need to be added in the class file
