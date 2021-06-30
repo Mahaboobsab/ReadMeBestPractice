@@ -67,6 +67,8 @@ public class ActivityIndicator {
 
 *Demo Project*
 
+![alt text](https://i.imgur.com/rBvuSDA.png)
+
 ## Found a bug? Missing a specific feature?
 
 Issue tracker: (https://github.com/mahaboobsab/awesome-project/issues)
